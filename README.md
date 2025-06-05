@@ -1,12 +1,12 @@
 # BonBonheur智能日程规划系统
 BonBonheur: IFC学生好帮手
 
-相较于传统日程，其结合了多模态情绪检测，ai聊天，桌宠，番茄钟与日程自动规划功能。
-帮助你更好地构建日常学习的正反馈循环，激发生活原动力！BonBonheur，帮助你发现生活的幸福
+相较于传统日程，其结合了多模态情绪检测，ai聊天，桌宠，番茄钟与日程自动规划功能。  
+帮助你更好地构建日常学习的正反馈循环，激发生活原动力！BonBonheur，帮助你发现生活的幸福  
 
-特别鸣谢：数据集
-fer2013
-REVDESS-1s-4Categories
+特别鸣谢：数据集  
+fer2013  
+REVDESS-1s-4Categories  
 
 是否使用生成式大模型：是
 大模型：Deepseek-r1 Claude4.0-sonnet
@@ -47,19 +47,19 @@ Bonbonheur聊天: 中文智能对话
 番茄钟: 为任务启动专注计时
 循环任务: 设置重复性日程安排
 时间优化: 获得AI优化建议
-专注分析: 查看详细的专注度统计
-📁 文件结构
-deskpet/
-├── main.py                      # 桌宠主程序
-├── animate.gif                  # 桌宠动画
-├── calendar_app_with_pomodoro.py # 高级日程系统
-├── recurring_schedule.py        # 循环日程处理
-├── pomodoro_timer.py            # 番茄钟功能
-├── smart_time_optimizer.py      # 智能时间优化
-├── test_features.py             # 功能测试脚本
-├── simple_test.py               # 简单测试脚本
-├── quick_test.py                # 快速验证脚本
-└── tasks.json                   # 任务数据文件（自动生成）
+专注分析: 查看详细的专注度统计  
+📁 文件结构  
+deskpet/  
+├── main.py                      # 桌宠主程序  
+├── animate.gif                  # 桌宠动画  
+├── calendar_app_with_pomodoro.py # 高级日程系统  
+├── recurring_schedule.py        # 循环日程处理  
+├── pomodoro_timer.py            # 番茄钟功能  
+├── smart_time_optimizer.py      # 智能时间优化  
+├── test_features.py             # 功能测试脚本  
+├── simple_test.py               # 简单测试脚本  
+├── quick_test.py                # 快速验证脚本  
+└── tasks.json                   # 任务数据文件（自动生成）  
 🚀 启动方式
 方法1: 直接运行
 cd deskpet
