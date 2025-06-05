@@ -1,0 +1,7 @@
+{
+  "default_focus_duration": 60,
+  "focus_type": "较为专注",
+  "work_start_hour": 8,
+  "work_end_hour": 22,
+  "min_slot_duration": 60
+}
